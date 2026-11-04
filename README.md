@@ -72,15 +72,87 @@ CASP Checklist provides a comprehensive authorisation checklist for crypto‑ass
 
 Everything profiled for CASP Checklist is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/caspchecklist-com/](https://apis.io/providers/caspchecklist-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (3)
+
+- [CASP Checklist Enquiry API](https://apis.io/apis/caspchecklist-com/caspchecklist-com-enquiry-api/) — enquiry
+- [CASP Checklist Guide API](https://apis.io/apis/caspchecklist-com/caspchecklist-com-guide-api/) — checker
+- [CASP Checklist MCP API](https://apis.io/apis/caspchecklist-com/caspchecklist-com-mcp-api/) — The mcp API from CASP Checklist — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Caspchecklist Com Agentic Access](https://apis.io/agentic-access/caspchecklist-com/caspchecklist-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CASP Checklist API Rules](https://apis.io/rules/caspchecklist-com/caspchecklist-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Caspchecklist Com Authentication](https://apis.io/security/caspchecklist-com/caspchecklist-com-authentication/)
+- [Caspchecklist Com Domain Security](https://apis.io/security/caspchecklist-com/caspchecklist-com-domain-security/)
+- [Caspchecklist Com Vulnerability Disclosure](https://apis.io/security/caspchecklist-com/caspchecklist-com-vulnerability-disclosure/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://caspchecklist.com/)
+- [Security](https://caspchecklist.com/terms)
+- [Terms of service](https://caspchecklist.com/terms/)
+- [Privacy policy](https://caspchecklist.com/privacy/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/caspchecklist-com/](https://apis.io/providers/caspchecklist-com/).
+**Kin Score 39.0** — thin · rubric 0.25.0 · scored 2026-11-04
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 45.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/caspchecklist-com/](https://apis.io/providers/caspchecklist-com/).
 
 ## How this profile is made
 
